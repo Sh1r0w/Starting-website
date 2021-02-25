@@ -655,7 +655,7 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
-.col-sm-4, .footer{
+.col-sm-4, .footer, .btn-text{
     color:#2B2E42!important;
     font-weight: 700;
 }
@@ -675,7 +675,7 @@ label,
 .btn {
     font-family: "helvetica";
     font-weight: 400;
-    color: #575757 !important;
+    color: #575757;
 }
 
 .container {
@@ -716,7 +716,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF !important;
+    color: #FFFFFF;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -817,7 +817,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF !important;
+    color: #FFFFFF;
     box-shadow: black 5px 5px 10px;
 }
 
