@@ -656,8 +656,12 @@ a[data-lightbox]:hover img {
 }
 
 .col-sm-4, .footer{
-    color:#2B2E42;
+    color:#2B2E42!important;
     font-weight: 700;
+}
+
+.footer{
+    font-size: 20px;
 }
 
 h1,
