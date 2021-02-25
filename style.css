@@ -655,6 +655,11 @@ a[data-lightbox]:hover img {
     background: none;
 }
 
+.col-sm-4, .footer{
+    color:#2B2E42;
+    font-weight: 700;
+}
+
 h1,
 h2,
 h3,
