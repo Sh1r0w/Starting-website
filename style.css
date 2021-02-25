@@ -40,9 +40,11 @@ a:hover {
     background-size: cover;
     position: relative;
 }
-.image-resize-mode{
+
+.image-resize-mode {
     width: 100;
 }
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -309,6 +311,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    height: 40px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -715,13 +718,13 @@ p {
     margin: auto auto auto auto;
 }
 
-.avis p{
+.avis p {
     font-size: 22px;
     font-style: italic;
-    width:90%;
+    width: 90%;
 }
 
-.autor p{
+.autor p {
     font-size: 18px;
     width: 90%;
 }
@@ -836,6 +839,7 @@ h4 {
 .bg-dots-bg {
     background-image: url("img/dots-bg.png");
 }
+
 /*
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.png");
